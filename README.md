@@ -27,7 +27,7 @@ You can use application by typing to URL route ```localhost``` or ```http://127.
 Home page of the app. Users are being redirected to the index page after sumbmitting registration or log in form correctly. The index page is also available by simply typing 
 ```forward slash``` after localhost. 
 Example:
-* http://localhost/
+* http://localhost:5000/
 * http://127.0.0.1:5000/
 
 #### Registration route 
